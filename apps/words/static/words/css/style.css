@@ -1,0 +1,34 @@
+.newWord{
+    display: inline-block;
+    border-right: 3px solid black;
+    padding-right: 40px;
+}
+div.session{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+span.RedandBig{
+    color: red;
+    font-size: 24pt
+}
+span.RedandSmall{
+    color: red;
+    font-size: 12pt;
+}
+span.BlueandBig{
+    color: blue;
+    font-size: 24pt;
+}
+span.BlueandSmall{
+    color: blue;
+    font-size: 12pt;
+}
+span.GreenandBig{
+    color: Green;
+    font-size: 24pt;
+}
+span.GreenandSmall{
+    color: Green;
+    font-size: 12pt;
+}
